@@ -1,4 +1,4 @@
-# Exercises - Day 5
+# Exercises - Day 6
 
 # Exercise: Level 1
 
@@ -50,4 +50,4 @@ nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
 print("Estonia" in nordic_countries)    # False
     # Check if 'Iceland' is a nordic country
 print("Iceland" in nordic_countries)    # True
-    # nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
+    # nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
